@@ -1,0 +1,15 @@
+region,order1,col1,reg1,reg2
+North.East,1,#A80084,North East,
+South.East,2,#AAFF00,South East,
+Great.Plains,4,#00C5FF,Great,Plains
+South.West,6,#A87000,South,West
+California,5,#FF0000,Californian,
+Pacific.North.West,3,#005CE6,Pacific,N.W.
+North America,9,#FFAA5C,North,America
+South America,8,#686868,South ,America
+Africa,10,#E6E600,Africa,
+Europe,11,#BA6100,Europe,
+Temperate Asia,12,#38A800,Temperate,Asia
+Tropical Asia,14,#004DA8,Tropical,Asia
+Australasia,13,#A900E6,AU,& NZ
+Pacific Islands,15,#E60000,Pacific,Islands
